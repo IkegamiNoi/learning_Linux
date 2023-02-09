@@ -1,0 +1,4 @@
+file -i ファイル名
+ex)
+    file -i Test.php
+    >>Test.php: text/x-php; charset=utf-8
